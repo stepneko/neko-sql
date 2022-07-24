@@ -1,0 +1,1 @@
+create table newtable select * from table1
